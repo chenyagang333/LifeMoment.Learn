@@ -1,0 +1,8 @@
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
+  type: git
+  repo: 
+    github: git@github.com:chenyagang333/chenyagang333.github.io.git
+    gitee: git@gitee.com:chenyagang333/chenyagang333.git
+  branch: main
